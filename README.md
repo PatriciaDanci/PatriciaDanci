@@ -5,7 +5,9 @@
 🌱 I'm eager to learn, collaborate, and contribute to innovative projects that shape the future of technology.
 
 Interested In:
-💻 Collaborations on exciting projects.
-👩‍💼 Internship opportunities.
+
+💻 Collaborations on exciting projects
+
+👩‍💼 Internship opportunities
 
 Let's connect and code together! 🚀
