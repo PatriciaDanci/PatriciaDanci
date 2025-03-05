@@ -1,4 +1,4 @@
-👋 Hi there! I'm Patricia Danci, a second-year Computer Science student at the Technical University of Cluj-Napoca.
+👋 Hi there! I'm Patricia Danci, a third-year Computer Science student at the Technical University of Cluj-Napoca.
 
 📚 Currently immersed in the world of software development, I'm passionate about exploring the endless possibilities of code.
 
